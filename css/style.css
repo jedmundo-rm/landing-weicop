@@ -1,0 +1,98 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  width: 1080px;
+  height: 1920px;
+}
+
+
+.main {
+  position: relative;
+}
+
+.cover {
+  background-image: url('../images/28c4be8b-187d-4ffa-af00-9987b5f0a2c9.png');
+  background-size: contain;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  top: 0;
+}
+
+img {
+  width: 100%;
+  position: absolute;
+}
+
+.uno {
+  -webkit-animation-duration: 5s;
+          animation-duration: 5s;
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s;
+  /* animation-iteration-count: infinite; */
+}
+
+.dos {
+  -webkit-animation-duration: 5s;
+          animation-duration: 5s;
+  -webkit-animation-delay: 1.25s;
+          animation-delay: 1.25s;
+}
+
+.tres {
+  -webkit-animation-duration: 5s;
+          animation-duration: 5s;
+  -webkit-animation-delay: 1.5s;
+          animation-delay: 1.5s;
+}
+
+.cuatro {
+  -webkit-animation-duration: 5s;
+          animation-duration: 5s;
+  -webkit-animation-delay: 1.75s;
+          animation-delay: 1.75s;
+}
+
+.cinco {
+  -webkit-animation-duration: 5s;
+          animation-duration: 5s;
+  -webkit-animation-delay: 2s;
+          animation-delay: 2s;
+}
+
+.seis {
+  -webkit-animation-duration: 5s;
+          animation-duration: 5s;
+  -webkit-animation-delay: 2.25s;
+          animation-delay: 2.25s;
+}
+
+.siete {
+  -webkit-animation-duration: 5s;
+          animation-duration: 5s;
+  -webkit-animation-delay: 2.5s;
+          animation-delay: 2.5s;
+}
+
+.ocho {
+  -webkit-animation-duration: 5s;
+          animation-duration: 5s;
+  -webkit-animation-delay: 2.75s;
+          animation-delay: 2.75s;
+}
+
+
+.button{
+        height: 60px;
+        width: 260px;
+        background-color: aliceblue;
+        position: absolute;
+        top: 225px;
+        left: 65px;
+        opacity: 0;
+        cursor: pointer;
+        z-index: 20;
+}
