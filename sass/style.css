@@ -71,7 +71,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 }
 
 body {
-  font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  font-family: "Raleway", sans-serif;
   color: #898989;
 }
 
@@ -377,7 +377,7 @@ footer #carnot {
 }
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Raleway", sans-serif;
   height: 100vh;
 }
 
@@ -708,4 +708,8 @@ header.interior .buttons-wrapper a {
 
 .post-template-default .entry-content {
   text-align: justify;
+}
+
+.registro h1 {
+  font-size: 70pt;
 }/*# sourceMappingURL=style.css.map */
