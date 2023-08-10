@@ -2,6 +2,9 @@
 
 .registro{
 	h1{
-		font-size: 70pt;
+		font-size: 40pt;
+		@media (min-width: 1200px) {
+			font-size: 50pt;
+		}
 	}
 }

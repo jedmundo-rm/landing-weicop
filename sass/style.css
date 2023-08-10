@@ -710,6 +710,20 @@ header.interior .buttons-wrapper a {
   text-align: justify;
 }
 
+.exito h1 {
+  font-size: 60pt;
+}
+@media (min-width: 1200px) {
+  .exito h1 {
+    font-size: 70pt;
+  }
+}
+
 .registro h1 {
-  font-size: 70pt;
+  font-size: 40pt;
+}
+@media (min-width: 1200px) {
+  .registro h1 {
+    font-size: 50pt;
+  }
 }/*# sourceMappingURL=style.css.map */

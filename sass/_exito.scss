@@ -1,0 +1,10 @@
+
+
+.exito{
+	h1{
+		font-size: 60pt;
+		@media (min-width: 1200px) {
+			font-size: 70pt;
+		}
+	}
+}
