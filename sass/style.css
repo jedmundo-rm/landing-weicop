@@ -210,7 +210,7 @@ header .col1login {
 }
 
 main {
-  background-color: #dddddd;
+  background-color: #F8F8F8;
   padding: 4rem 0;
 }
 
@@ -239,6 +239,8 @@ main {
 }
 .cuadro .content ul {
   list-style: none; /* Remove default bullets */
+  padding-left: 0rem;
+  margin-left: 0rem;
 }
 .cuadro .content ul li::before {
   content: "•"; /* Add content: \2022 is the CSS Code/unicode for a bullet */
@@ -583,6 +585,9 @@ button:focus {
 }
 .modal-body p {
   font-size: 14pt;
+}
+.modal-body .referencias p {
+  font-size: 8pt;
 }
 .modal-body button {
   background: rgb(250, 70, 7);

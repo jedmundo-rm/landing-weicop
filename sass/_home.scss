@@ -229,7 +229,7 @@ header {
 }
 
 main {
-    background-color: #dddddd;
+    background-color: #F8F8F8;
     padding: 4rem 0;
 }
 
@@ -259,6 +259,8 @@ main {
 
 		ul {
 			list-style: none; /* Remove default bullets */
+            padding-left: 0rem;
+            margin-left: 0rem;
 		  }
 		  
 		  ul li::before {
